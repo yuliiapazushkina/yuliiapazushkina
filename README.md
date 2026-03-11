@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Yuliia Pazushkina 👋
 
-<!--
-**yuliiapazushkina/yuliiapazushkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Fullstack Developer | React | Node.js  
+Fullstack developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack  
+JavaScript | TypeScript | Node.js | React | Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻Featured Projects 
+- Zustand – State Management Demo Application (https://github.com/yuliiapazushkina/08-zustand) - a modern web application built with Next.js demonstrating efficient global state management using the Zustand library.
+Technologies:
+Next.js, React, JavaScript, Zustand, CSS
+
+- Movie Search & Discovery Application (https://github.com/yuliiapazushkina/03-react-movies) - a responsive web application that allows users to search and explore movies using an external movie API.
+Technologies:
+React, TypeScript, Vite, REST API, React Router, CSS
+
+## 🗣️ Languages
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![German](https://img.shields.io/badge/German-A1-lightgrey?style=flat-square)
+
+## 📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/yuliia-pazushkina/) | [Telegram](https://t.me/llafretniw) | [Email](mailto:juliapazushkina@gmail.com)
